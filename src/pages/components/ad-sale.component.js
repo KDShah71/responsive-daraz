@@ -13,7 +13,9 @@ const items = [
 function AdSale() {
   return (
     <Section>
-      <div className=" w-full h-48  rounded-full bg-gray-500 my-2 px-8"></div>
+      <div className=" w-full h-48  rounded-full bg-red-400 my-2 px-8 flex justify-center items-center cursor-pointer">
+        <p className="text-5xl font-bold text-white">Mega Offers</p>
+      </div>
       <div className="py-2 grid grid-rows-2 lg:grid-rows-1 grid-cols-3      gap-2  lg:grid-cols-5  text-xs   lg:text-sm">
         {items.map((item, index) => (
           <GridItem key={index} title={item} />
