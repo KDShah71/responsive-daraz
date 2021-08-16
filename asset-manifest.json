@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/responsive-daraz/static/css/main.94db0d6c.chunk.css",
+    "main.js": "/responsive-daraz/static/js/main.faef562a.chunk.js",
+    "main.js.map": "/responsive-daraz/static/js/main.faef562a.chunk.js.map",
+    "runtime-main.js": "/responsive-daraz/static/js/runtime-main.55a0c666.js",
+    "runtime-main.js.map": "/responsive-daraz/static/js/runtime-main.55a0c666.js.map",
+    "static/css/2.0bbe8b17.chunk.css": "/responsive-daraz/static/css/2.0bbe8b17.chunk.css",
+    "static/js/2.fbd9f2eb.chunk.js": "/responsive-daraz/static/js/2.fbd9f2eb.chunk.js",
+    "static/js/2.fbd9f2eb.chunk.js.map": "/responsive-daraz/static/js/2.fbd9f2eb.chunk.js.map",
+    "static/js/3.7e40440a.chunk.js": "/responsive-daraz/static/js/3.7e40440a.chunk.js",
+    "static/js/3.7e40440a.chunk.js.map": "/responsive-daraz/static/js/3.7e40440a.chunk.js.map",
+    "index.html": "/responsive-daraz/index.html",
+    "static/css/2.0bbe8b17.chunk.css.map": "/responsive-daraz/static/css/2.0bbe8b17.chunk.css.map",
+    "static/css/main.94db0d6c.chunk.css.map": "/responsive-daraz/static/css/main.94db0d6c.chunk.css.map",
+    "static/js/2.fbd9f2eb.chunk.js.LICENSE.txt": "/responsive-daraz/static/js/2.fbd9f2eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55a0c666.js",
+    "static/css/2.0bbe8b17.chunk.css",
+    "static/js/2.fbd9f2eb.chunk.js",
+    "static/css/main.94db0d6c.chunk.css",
+    "static/js/main.faef562a.chunk.js"
+  ]
+}
